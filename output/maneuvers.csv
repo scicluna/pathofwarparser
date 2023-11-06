@@ -1,0 +1,299 @@
+name,activation,target,area,duration,range,savetype,onsave,school,description,level,icon
+GUTSTRIKE,standard,One creature,,1 round,Melee attack,Fortitude,negates,Black Seraph (Strike),"Saving Throw: Fortitude negates
+With a ruthless attack or a powerful kick, the disciple
+strikes a foe in a way that causes him to become
+sickened with pain. The discipline makes a melee
+attack against a foe, adding his initiation modifier to
+the damage of the attack and the target must make a
+Fortitude save (DC 11 + primary initiating attribute
+modifier) or be sickened for one round.",1,icons/svg/angel.svg
+RAVAGING BLOW,standard,One creature,,One round,Melee attack,Will,partial,"Black Seraph (Strike) [Evil, Fear]","Saving Throw: Will partial
+Fear is one of the main weapons in the arsenal
+of a Black Seraph disciple, and by using it he may
+shake his opponent to their core. The disciple makes
+a melee attack that inflicts an additional 1d6 points
+of profane damage and may cause the victim to be
+shaken for one round due to his fearful countenance
+and martial prowess. A successful Will save (DC 11 +
+initiation modifier) negates the shaken effect.",1,icons/svg/angel.svg
+STRENGTH OF HELL,swift,You,,One round,Personal,,,Black Seraph (Boost),"By utilizing his bond to the lower planes from his
+training, the darkness he welcomed as his own, the
+martial disciple is capable of increasing his power at
+the cost of defense by bringing forth a momentary
+burst of hysterical fiendish strength. Until next turn,
+the disciple gains a +2 profane bonus to attack and
+add an additional 1d6 points of damage to the attack.",1,icons/svg/angel.svg
+VORACIOUS DRIVE,full,One creature,,Instant,Full round action,,,Black Seraph (Strike),"The relentless nature of the Black Seraph
+disciplines philosophy deems that progression
+must be made with each swing, lest the battle turn
+against the disciple. With this philosophy in mind,
+the disciple moves forward and strikes viciously.
+The disciple makes a charge attack which does not
+provoke attacks of opportunity, and this inflicts an
+additional 1d6 points of damage. When making a
+charge attack with this strike, he does not suffer the
+standard -2 Armor Class penalty.",1,icons/svg/angel.svg
+FEAR EATING TECHNIQUE,swift,You,,Instant,Personal,,,Black Seraph (Boost) [Evil],"The disciples soul hungers for the fear it inspires on
+the battlefield, and rewards can be gained by inspiring
+it with greater vigor. Upon successful demoralization
+of an enemy, initiating this boost restores 2d6 hit
+points to the disciple, plus an additional +1 hit point
+per initiator level. This is a supernatural maneuver.",2,icons/svg/angel.svg
+INNER DEMON STRIKE,standard,One creature,,Instant,Melee attack,,,Black Seraph (Strike) [Evil],"By using the black energies within him as a weapon,
+the disciple may channel it through his mortal form
+to do devastating damage to his foes, all the while
+heedless of the damage inflicted upon his body.
+This black energy inflicts an additional 4d6 points
+of profane damage, which also deals 1d6 points of
+damage to the initiator.",2,icons/svg/angel.svg
+INTIMIDATING FORCE,swift,You,,Instant,Personal,,,Black Seraph (Counter),"‘A foe who fears you more than his commander
+is one who cannot harm you, an old Black Seraph
+master once said. By using this technique, the
+disciples fear-inspiring countenance alone may turn
+aside attacks before they occur. The disciple makes
+an Intimidate check against the attackers attack roll;
+if the Intimidate check exceeds the attack roll then
+the attack is negated.",2,icons/svg/angel.svg
+SERAPHS WRATH,standard,One creature,,Instant,Melee attack,Reflex,partial,Black Seraph (Strike),"Saving Throw: Reflex partial
+The Black Seraph disciple uses the principles of
+overwhelming force to drive his opponent back
+so that he may continue to wade forward towards
+conquest. The disciple makes a melee attack against
+a target creature that inflicts an additional 2d6 points
+of damage and causes the target to make a Reflex save
+(DC 12 + initiation modifier) or be knocked prone.",2,icons/svg/angel.svg
+SHADOW FEATHER STRIKE,standard,One creature,,Instant,30-ft,,,Black Seraph (Strike) [Evil],"By concentrating dark, spiritual energy within his
+hand and shaping it into a rough feather-like shape,
+the disciple may hurl his wrath at a target with a
+blade of a cutting hate. When initiating this strike,
+the disciple makes a ranged touch attack against a
+target that inflicts 4d6 + initiation modifier in profane
+damage.",2,icons/svg/angel.svg
+SAVAGE DRIVE,full,One creature,,Instant,Melee attack,,,Black Seraph (Strike),"Ever hungry for carnage, the demonic disciple
+demands action and satisfaction through battle.
+Pressing forward with ruthless efficiency, the disciple
+inflicts more damage than his foes, thus outlasting
+them. The disciple makes a charge attack whichdoes
+not provoke attacks of opportunity, and this inflicts
+an additional 4d6 points of damage. When making a
+charge attack with this strike, he does not suffer the
+standard -2 Armor Class penalty.",3,icons/svg/angel.svg
+TAUNTING LAUGH,swift,One creature,,One round,30-ft,,,Black Seraph (Boost),"With an intimidating growl and mighty laugh at his
+pitiful opponents, the Black Seraph disciple causes
+his foes resolve to weaken and his anger to stoke,
+allowing him to make the tragic mistake of giving
+the disciple the upper hand. As a swift action, the
+disciple makes a demoralization attempt against a
+foe, and if successful, in addition to demoralizing the
+foe, the target is struck flat-footed until the end of the
+disciples next turn.",3,icons/svg/angel.svg
+TENDON RIP,standard,One creature,,Instant,Melee attack,,,Black Seraph (Strike),"By striking at the legs of the opponent, the disciple
+removes the mobility of a foe, so the foe cannot
+hamper his progression to victory. The initiator makes
+an attack on the target creature, and if successful, the
+attack inflicts an additional 2d6 points of damage
+and halves the opponents move speed for initiation
+modifier in rounds.",3,icons/svg/angel.svg
+UNFETTERED PROGRESSION,swift,You,,Instant,Personal,,,Black Seraph (Boost),"By unceasing movement in combat, the Black
+Seraph disciple moves into a more beneficial position
+to deliver a deadly blow. After attacking, he may make
+a free 10-ft movement without provoking attacks of
+opportunity and the next attack he makes inflicts an
+additional 2d6 points of damage that ignores damage
+reduction.",3,icons/svg/angel.svg
+BILIOUS STRIKE,standard,One creature,,Instant,Melee,Fortitude,partial,Black Seraph (Strike) [Evil],"Saving Throw: Fortitude partial
+With a powerful strike to the abdomen, the Black
+Seraph disciple fills his opponent with destructive
+unholy power. The disciples aim is to rupture organs
+within to kill his subject painfully. The initiator must
+make a melee attack against a target creature, and if
+successful the attack inflicts an additional 6d6 points
+of profane damage and nauseates the target for the
+disciples initiation modifier in rounds. The target may
+make a Fortitude save (DC 14 + initiation modifier) to
+reduce the nauseated condition to one round.",4,icons/svg/angel.svg
+CIRCLE OF RAZOR FEATHERS,standard,,30-ft.-radius burst centered on you.,Instant,30 ft,Reflex,partial,Black Seraph (Strike) [Evil],"Saving Throw: Reflex partial
+When surrounded, a disciple of the Black Seraph
+may lay low many foes by the force of his hellish
+wrath. By crying out in horrible rage and raising
+his weapon straight up to the sky, the disciples foes
+are showered with dozens of needles of dark energy
+which inflict 8d6 points of profane damage. The painfilled nature of this attack has the potential to sicken
+targets with wracking agonies for the characters
+initiation modifier in rounds. This maneuver allows
+a Reflex saving throw (DC 14 + initiation modifier) for
+half damage and to reduce the sickened conditions
+duration to one round.",4,icons/svg/angel.svg
+VENGEFUL RIPOSTE,immediate,You,,Instant,Personal,,,Black Seraph (Counter),"Disciples of the Black Seraph have trained
+themselves to look for openings while enemies attack,
+then respond with agonizing retorts, as vengeance
+is a creed the Black Seraph embraces. The disciple
+makes an attack at his full base attack bonus against
+his attacker which if successful sends a cascade of
+pain through the target and inflicts the staggered
+condition for one round.",4,icons/svg/angel.svg
+ABYSSAL LANCE,standard,One creature,,Instant,Close (25 ft + 5-ft/initiator level),,,Black Seraph (Strike) [Evil],"Those who have become masters of the Black
+Seraph discipline have learned that by focusing the
+rage within themselves, they may use it as a weapon
+of pure destruction at the cost of their self. These
+disciples know that so long as their foe is destroyed,
+pain is inconsequential. By summoning forth this
+rage and channeling it through their form, they may
+will a lance of venomous rage and pain into existence
+and fling at their enemy. This is a ranged touch attack
+which deals 8d6 points of profane damage and stuns
+a foe for one round with wracking pain (Fortitude
+save DC 15 + initiation modifier negates the stunned
+condition).",5,icons/svg/angel.svg
+SENSORY RIP,standard,One creature,,Instant,Melee,Reflex,partial,Black Seraph (Strike),"Saving Throw: Reflex partial
+With a high swing towards the face of his opponent,
+the Black Seraph disciple attempts to shatter the
+confidence and appearance of his enemy and remove
+from them the ability to see in the cruelest fashion
+with painful, scarring wounds. The initiator makes
+a melee attack against his foe, and if successful, this
+strike inflicts an additional 1d4 points of Charisma
+damage and potentially blinds the target creature
+on a failed Reflex saving throw (DC 15 + initiation
+modifier negates blindness).",5,icons/svg/angel.svg
+SHARING THE DARK SOUL,standard,One creature,,One round,Melee attack,,,Black Seraph (Strike) [Mind-affecting],"By channeling their own internal despair and
+anguish, the disciple shares this inner pain with his
+enemies. A burst of crackling energy accompanies
+the strike as the inner fiend reaches out and touches
+the mind of its victim. The initiator makes an attack
+which deals an additional 8d6 points of profane
+damage, and the foe is dazed with pain for one round
+on a failed Fortitude save (DC 15 + initiation modifier
+negates dazed condition).",5,icons/svg/angel.svg
+SOUL CONSUMPTION,swift,One creature,,Instant,Personal,,,Black Seraph (Boost) [Evil],"The fiendish energy channeled by the disciple
+hungers for the souls of fallen foes and it rewards
+the disciple with its unquenchable thirst. When the
+initiator reduces a foe (minimum ½ HD) to 0 hit points
+or less, he may use this boost to draw the remaining
+life force of the foe into his own form to restore
+health to his body. Use of this maneuver restores 3d8
++ initiator level hit points to the initiator.",5,icons/svg/angel.svg
+ABYSSAL DRIVE,full,One creature,,Instant,Melee attack,,,Black Seraph (Strike),"The path of the conqueror demands satisfaction,
+and the disciple of the Black Seraph learns perfection
+in conquest by the ever progressing tide of battle.
+Pressing forward with infernally enhanced power,
+the disciple moves to devastate his next foe with the
+rage within his soul. The disciple makes a charge
+attack which does not provoke attacks of opportunity,
+and this inflicts an additional 8d6 points of damage
+and leaves his foe sickened for 1d4 rounds. If the
+victim successfully makes a Fortitude save (DC 16 +
+initiation modifier), he negates the sickened condition.
+When making a charge attack with this strike, he does
+not suffer the standard -2 Armor Class penalty.",6,icons/svg/angel.svg
+BLACK SERAPHS WRATH,swift,You,,One round,Personal,,,Black Seraph (Boost) [Evil],"The disciple of the Black Seraphs anger and wrath
+are his strongest weapons, and in concentrating this
+hatred into his attacks, he may cause a horrible black
+power to invade the wounds of his foes to cause even
+more injury. The initiator makes an Intimidate check
+and the result of this check is added to his damage
+roll as profane damage on his next successful attack.",6,icons/svg/angel.svg
+SHADOW RAPTOR SWARM,standard,,,Instant,30-ft cone,Reflex,half,"Black Seraph (Strike) [Evil, Mind-Affecting]","Saving Throw: Reflex half
+The power of a Black Seraph disciples hatred is
+made manifest by summoning a swarming mass
+of beating wings with razor tipped wings made of
+shadow that he directs at his foes in a cone of terror
+and rage. The initiator extends his hand or weapon
+and from this point a 30-ft cone of shadowy birds rip
+and rend at the disciples foes and inflict 12d6 points
+of profane damage; a successful Reflex save (DC 16
++ initiation modifier) halves this damage. All targets
+within this maneuvers effects are shaken for the
+disciples initiation modifier in rounds.",6,icons/svg/angel.svg
+ARMAGEDDON LANCE,standard,One creature,,Instant,Close (25-ft + 5-ft/initiator level),,,"Black Seraph (Strike) [Evil, MindAffecting]","One the supreme arts of the Black Seraph discipline
+allows the disciple to call upon the fell and eternal
+wrath of his dark agreement with the lower planes
+and use it as a devastating lance of destructive
+unholy terror. This is a ranged touch attack which
+deals 14d6 points of profane damage, but the cost of
+creating this powerful attack requires sacrifice by the
+host, resulting in the initiator suffering 2d6 points
+of damage. Foes struck by this potent attack must
+make a Will save (DC 17 + initiation modifier) or be
+panicked for one round.",7,icons/svg/angel.svg
+CHARGE OF THE RAVAGER,full,One creature and all adjacent targets along,,Instant,Up to twice base movement,,,Black Seraph (Strike),"The path to victory is not a curved line, it is a straight,
+bloody line. The Black Seraph teaches its disciples
+this and urges them to greater glory and carnage on
+the field of battle. The disciple makes a charge attack
+against an opponent to start this maneuver and he
+may make a full attack upon the target of this charge.
+This charge does not provoke attacks of opportunity.
+The disciple may also make one attack at his highest
+attack bonus against any opponent along his charge
+path, and all successful attacks inflict an additional
+2d6 points of damage. He may only make one attack
+per target when he initiates this maneuver.",7,icons/svg/angel.svg
+CONSUMPTION STRIKE,standard,One creature,,Instant,Melee attack,,,Black Seraph (Strike) [Evil],"By channeling dark energies from the lower
+planes, the disciple of the Black Seraph may utilize
+this vampiric power through his attack, restoring
+health and strength to him at the cost of his foes
+vitality. This strike deals an additional 10d6 points
+of profane damage, and the disciple gains a number
+of temporary hit points equal to the damage dealt
+by this strike. These hit points persist for up to one
+minute or until they are lost.",7,icons/svg/angel.svg
+DEVASTATING RIPOSTE,immediate,One creature,,Instant,Personal,,,Black Seraph (Counter),"The battle-hardened nature of the disciple of the
+Black Seraph can be shown in their ability to take
+a hit and give it back to their attacker three-fold.
+The disciple makes an Intimidate check against the
+attackers attack roll, if successful then the disciple
+may make an attack at his full base attack bonus
+against the attacker that inflicts an additional 8d6
+points of damage.",7,icons/svg/angel.svg
+APOCALYPTIC STRIKE,standard,,40-ft-radius burst centered on you,Instant,40-ft,Reflex,half,Black Seraph (Strike) [Evil],"Saving Throw: Reflex half
+This master level technique of the Black Seraph
+discipline allows its disciples to bring forth the true
+power of destruction from the darkness within. By
+letting out a cry of rage and driving his weapon
+into the ground at his feet, he lets forth a burst of
+destructive energy to all surrounding him, friend
+or foe. This destructive wrath inflicts 16d6 points of
+profane damage to all targets within a 40-ft radius
+burst, centered on the initiator. The power of this
+blast is such that it may daze all affected creatures
+for one round with unholy agony that were not quick
+enough to avoid the worst of the assault. Those caught
+within the blast of dark energy may attempt a Reflex
+save (DC 18 + initiation modifier) for half damage and
+to negate the dazed condition.",8,icons/svg/angel.svg
+SOUL CRUSHER,standard,One creature,,Instant,Melee,,,Black Seraph (Strike) [Evil],"With a mighty swing or the barest tap, the rage and
+hatred within the Black Seraph infects his foe and
+destroys his resolve and very will to live. The initiator
+makes a melee attack against a target creature, and if
+successful the attack inflicts an additional 3d4 points
+of Charisma damage as the essence of the targets self
+is devoured by the disciples hatred for his existence.",8,icons/svg/angel.svg
+VOID SERAPH STRIKE,standard,One creature,,1d4 rounds,30-ft,,,Black Seraph (Strike) [Evil],"The Black Seraph disciples power and mastery is
+nearly complete, and with this maneuver he may
+dismiss his hatred and set it upon a foe to devour
+the fool who would stand before him. The initiator
+must make a ranged touch attack against a target
+creature, and if successful the target is ripped and
+slashed by the claws and wings of shadowy birds of
+venomous hate, taking 6d6 points of profane damage
+per round for 1d4 rounds. While being devoured by
+these shadowy birds, the target suffers a 50% miss
+chance on any attacks he makes due to his senses
+being obscured by the flapping wings and horrible
+pain he is enduring.",8,icons/svg/angel.svg
+BLACK SERAPH ONSLAUGHT,full,One creature,,Instant,Melee attack,,,Black Seraph (Strike),"A true master of the Black Seraph fears no foe, and
+suffers none to stand before him. Heedless of personal
+danger to himself, the disciple brings his enemies to
+their knees with a relentless flurry of strikes. As part
+of this maneuver, the initiator takes a full attack action
+and may make an additional attack as part of this action
+at his highest attack bonus. The initiator suffers a -2
+penalty to AC due to his focus on offense while using
+this maneuver. This focus on offense adds an extra 4d6
+points of profane damage per successful attack. The
+sheer force of these blows nauseates his target with
+pain as well, for one round per successful attack. Foes
+killed by use of this maneuver are mutilated so badly
+that attempts to use a raise dead spell to restore their
+lives fail automatically; a more powerful restorative
+magic (such as true resurrection) is required.",9,icons/svg/angel.svg
