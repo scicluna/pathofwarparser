@@ -38,8 +38,14 @@ def parse_maneuver(text_block):
         if area:
             parsed_data['area'] = area.group(1)
 
-        parsed_data['duration'] = re.search(r'Duration: (.+)', text_block).group(1)
-        parsed_data['range'] = re.search(r'Range: (.+)', text_block).group(1)
+        duration = re.search(r'Duration: (.+)', text_block)
+        if duration:
+            parsed_data['duration'] = duration.group(1)
+
+        range = re.search(r'Range: (.+)', text_block)
+        if range:
+            parsed_data['range'] = range.group(1)
+
         parsed_data['level'] = re.search(r'Level: (.+)', text_block).group(1)
 
         save_match = re.search(r'Saving Throw: (.+)', text_block)
