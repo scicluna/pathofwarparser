@@ -3809,7 +3809,7 @@ explode with celestial light and power. Make a melee
 attack that inflicts an additional 8d6 points of damage
 and heals the initiator and all of his allies within 30-ft
 for 4d6 points of damage.
-EMERALD-TIPPED FEATHERS
+EMERALD TIPPED FEATHERS
 Discipline: Silver Crane (Counter) [Good]
 Level: 5
 Prerequisites: 2 Silver Crane maneuvers
